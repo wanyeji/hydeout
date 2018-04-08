@@ -1,11 +1,11 @@
-# Dependencies
+﻿# Dependencies
 markdown:         kramdown
 highlighter:      rouge
 
 # Setup
 title:            思维之窗
 tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+description:      '探索思维的极限'
 url:              https://fongandrew.github.io/hydeout
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
